@@ -1,1 +1,1 @@
-# Ising-Model-Monte-Carlo-
+# Ising Model in Monte-Carlo implementation
